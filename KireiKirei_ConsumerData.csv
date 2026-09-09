@@ -1,0 +1,801 @@
+Age,Family_Size,Location,Monthly_Income_INR,Current_Brand,Replacement_Frequency,Primary_Channel,Willing_to_Pay_Premium,Japanese_Brand_Bias
+23,2,Western Suburbs,105000,Palmolive,Monthly,Large Supermarket,Yes,4
+29,2,South Mumbai,210000,Dove,Monthly,Online (Blinkit/BigBasket),Yes,4
+31,3,Eastern Suburbs,110000,Palmolive,Every 2 Weeks,Local Kirana,Yes,3
+37,2,Eastern Suburbs,65000,Local/Other,Quarterly,Hypermarket (D-Mart),Maybe,3
+29,2,South Mumbai,250000,Palmolive,Quarterly,Online (Blinkit/BigBasket),Yes,5
+38,4,Navi Mumbai,70000,Local/Other,Weekly,Hypermarket (D-Mart),No,2
+44,2,Thane,60000,Lifebuoy,Monthly,Local Kirana,Maybe,3
+21,4,Navi Mumbai,70000,Savlon,Weekly,Local Kirana,No,3
+42,4,Navi Mumbai,115000,Dettol,Weekly,Local Kirana,Maybe,4
+19,1,Thane,65000,Lifebuoy,Monthly,Hypermarket (D-Mart),No,4
+39,4,Eastern Suburbs,120000,Palmolive,Weekly,Local Kirana,Yes,3
+31,2,Eastern Suburbs,60000,Dettol,Monthly,Local Kirana,No,3
+52,2,Western Suburbs,110000,Dettol,Every 2 Weeks,Organic Store,No,3
+38,2,Eastern Suburbs,170000,Dove,Monthly,Online,Yes,4
+33,3,Western Suburbs,280000,Dettol,Every 2 Weeks,Online (Blinkit/BigBasket),Yes,4
+31,3,Western Suburbs,330000,Palmolive,Monthly,Large Supermarket,Yes,4
+35,3,Western Suburbs,160000,Palmolive,Monthly,Online (Blinkit/BigBasket),Yes,3
+41,2,South Mumbai,170000,Dove,Quarterly,Online (Blinkit/BigBasket),Yes,4
+27,4,Navi Mumbai,85000,Godrej Protekt,Weekly,Hypermarket (D-Mart),No,4
+30,2,South Mumbai,125000,Savlon,Monthly,Online (Blinkit/BigBasket),No,5
+24,4,Western Suburbs,175000,Other/Organic,Weekly,Online (Blinkit/BigBasket),Yes,5
+32,4,Western Suburbs,280000,Dove,Weekly,Online (Blinkit/BigBasket),Yes,5
+38,3,Western Suburbs,170000,Godrej Protekt,Monthly,Organic Store,Yes,5
+28,2,Navi Mumbai,130000,Godrej Protekt,Every 2 Weeks,Local Kirana,Yes,5
+56,4,Navi Mumbai,75000,Santoor,Weekly,Local Kirana,Maybe,3
+46,4,Navi Mumbai,100000,Dettol,Weekly,Local Kirana,Maybe,3
+35,5,Western Suburbs,225000,Dettol,Weekly,Online (Blinkit/BigBasket),Yes,4
+20,4,Eastern Suburbs,95000,Dettol,Weekly,Hypermarket (D-Mart),Maybe,3
+34,6,Thane,115000,Palmolive,Weekly,Local Kirana,Yes,4
+31,2,Western Suburbs,210000,Other/Organic,Monthly,Large Supermarket,Yes,5
+36,5,South Mumbai,320000,Godrej Protekt,Weekly,Large Supermarket,Yes,3
+45,4,Western Suburbs,295000,Other/Organic,Weekly,Online (Blinkit/BigBasket),Yes,4
+42,4,Eastern Suburbs,150000,Palmolive,Weekly,Local Kirana,Yes,5
+37,1,Western Suburbs,190000,Dove,Every 2 Weeks,Large Supermarket,Yes,3
+26,3,South Mumbai,335000,Palmolive,Monthly,Online (Blinkit/BigBasket),Yes,4
+62,4,South Mumbai,315000,Other/Organic,Weekly,Online (Blinkit/BigBasket),Yes,5
+28,3,Western Suburbs,110000,Dettol,Quarterly,Organic Store,No,4
+32,2,Western Suburbs,210000,Godrej Protekt,Monthly,Online (Blinkit/BigBasket),Yes,4
+40,4,Thane,75000,Lifebuoy,Weekly,Local Kirana,No,4
+33,2,South Mumbai,250000,Dove,Every 2 Weeks,Online (Blinkit/BigBasket),Yes,5
+52,1,Western Suburbs,175000,Godrej Protekt,Monthly,Organic Store,Yes,5
+33,4,Navi Mumbai,135000,Savlon,Weekly,Local Kirana,Yes,5
+59,5,Eastern Suburbs,100000,Lifebuoy,Weekly,Online,Maybe,2
+39,1,South Mumbai,210000,Dettol,Every 2 Weeks,Organic Store,Yes,4
+39,4,Western Suburbs,300000,Godrej Protekt,Weekly,Organic Store,Yes,4
+42,4,Western Suburbs,370000,Dove,Weekly,Online (Blinkit/BigBasket),Yes,4
+42,4,Navi Mumbai,90000,Palmolive,Weekly,Hypermarket (D-Mart),Yes,3
+36,4,South Mumbai,210000,Dettol,Weekly,Online (Blinkit/BigBasket),Yes,5
+39,6,South Mumbai,270000,Godrej Protekt,Weekly,Online (Blinkit/BigBasket),Yes,4
+49,4,Western Suburbs,270000,Dettol,Weekly,Online (Blinkit/BigBasket),Yes,3
+36,3,Eastern Suburbs,170000,Dove,Every 2 Weeks,Local Kirana,Yes,4
+26,2,Navi Mumbai,110000,Dettol,Monthly,Hypermarket (D-Mart),Maybe,4
+48,5,South Mumbai,460000,Dettol,Weekly,Online (Blinkit/BigBasket),Yes,4
+39,3,South Mumbai,395000,Palmolive,Monthly,Online (Blinkit/BigBasket),Yes,5
+39,4,Eastern Suburbs,125000,Lifebuoy,Weekly,Local Kirana,Maybe,3
+38,1,Thane,80000,Lifebuoy,Monthly,Hypermarket (D-Mart),No,3
+49,5,Eastern Suburbs,60000,Lifebuoy,Weekly,Organic Store,No,4
+20,2,Eastern Suburbs,110000,Dettol,Monthly,Local Kirana,No,4
+39,3,Thane,100000,Godrej Protekt,Every 2 Weeks,Online,No,4
+44,3,Thane,110000,Palmolive,Every 2 Weeks,Local Kirana,Yes,4
+39,3,Western Suburbs,350000,Dettol,Monthly,Online (Blinkit/BigBasket),Yes,3
+34,5,Western Suburbs,275000,Other/Organic,Weekly,Local Kirana,Yes,4
+31,3,Eastern Suburbs,75000,Local/Other,Monthly,Local Kirana,No,4
+26,4,Eastern Suburbs,115000,Palmolive,Weekly,Local Kirana,Yes,3
+58,5,Thane,75000,Lifebuoy,Weekly,Local Kirana,No,4
+25,2,Eastern Suburbs,50000,Dettol,Monthly,Local Kirana,No,4
+38,4,Thane,70000,Dettol,Weekly,Online,No,1
+35,2,South Mumbai,245000,Other/Organic,Monthly,Online (Blinkit/BigBasket),Yes,5
+34,2,Eastern Suburbs,75000,Lifebuoy,Every 2 Weeks,Hypermarket (D-Mart),Maybe,3
+35,4,Western Suburbs,135000,Dettol,Weekly,Online (Blinkit/BigBasket),Yes,5
+27,2,Western Suburbs,125000,Savlon,Every 2 Weeks,Online (Blinkit/BigBasket),No,4
+28,5,Navi Mumbai,135000,Dettol,Weekly,Local Kirana,Yes,5
+27,2,Navi Mumbai,85000,Savlon,Monthly,Local Kirana,No,4
+42,3,Navi Mumbai,95000,Dettol,Monthly,Local Kirana,Maybe,3
+33,3,Western Suburbs,145000,Dettol,Every 2 Weeks,Organic Store,Yes,4
+47,3,Eastern Suburbs,70000,Dettol,Monthly,Hypermarket (D-Mart),No,3
+26,4,South Mumbai,270000,Dove,Weekly,Local Kirana,Yes,4
+32,2,Eastern Suburbs,90000,Dettol,Every 2 Weeks,Local Kirana,Maybe,3
+36,3,Thane,120000,Dettol,Monthly,Organic Store,No,2
+28,4,Navi Mumbai,135000,Savlon,Weekly,Hypermarket (D-Mart),Yes,4
+28,3,Western Suburbs,185000,Dove,Every 2 Weeks,Online (Blinkit/BigBasket),Yes,5
+43,2,Eastern Suburbs,110000,Savlon,Every 2 Weeks,Local Kirana,Maybe,2
+29,4,South Mumbai,330000,Dove,Weekly,Online (Blinkit/BigBasket),Yes,5
+42,4,Western Suburbs,345000,Palmolive,Weekly,Large Supermarket,Yes,4
+41,4,Thane,55000,Santoor,Weekly,Local Kirana,Maybe,4
+41,3,Western Suburbs,170000,Dettol,Monthly,Organic Store,Yes,5
+28,3,Western Suburbs,255000,Dove,Every 2 Weeks,Organic Store,Yes,3
+45,4,Western Suburbs,125000,Lifebuoy,Weekly,Large Supermarket,Maybe,4
+41,3,South Mumbai,385000,Dettol,Every 2 Weeks,Online (Blinkit/BigBasket),Yes,5
+52,5,Western Suburbs,170000,Dettol,Weekly,Online (Blinkit/BigBasket),Yes,4
+33,4,Navi Mumbai,70000,Lifebuoy,Weekly,Hypermarket (D-Mart),No,3
+40,2,Eastern Suburbs,100000,Dettol,Quarterly,Hypermarket (D-Mart),No,4
+37,4,Eastern Suburbs,55000,Savlon,Weekly,Online,No,5
+38,2,Navi Mumbai,100000,Godrej Protekt,Monthly,Hypermarket (D-Mart),No,3
+25,6,Thane,100000,Dettol,Weekly,Online,No,3
+18,1,Eastern Suburbs,100000,Palmolive,Every 2 Weeks,Local Kirana,Yes,5
+45,3,Western Suburbs,170000,Godrej Protekt,Monthly,Online (Blinkit/BigBasket),Yes,4
+33,3,Eastern Suburbs,105000,Lifebuoy,Monthly,Hypermarket (D-Mart),No,3
+24,6,South Mumbai,170000,Dove,Weekly,Online (Blinkit/BigBasket),Yes,5
+64,1,Thane,95000,Dettol,Monthly,Local Kirana,Maybe,3
+64,1,South Mumbai,335000,Dove,Monthly,Online (Blinkit/BigBasket),Yes,3
+23,2,Western Suburbs,295000,Other/Organic,Monthly,Online (Blinkit/BigBasket),Yes,5
+32,2,Eastern Suburbs,140000,Godrej Protekt,Every 2 Weeks,Local Kirana,Yes,4
+37,2,Western Suburbs,230000,Palmolive,Every 2 Weeks,Online (Blinkit/BigBasket),Yes,4
+38,3,Navi Mumbai,105000,Dettol,Every 2 Weeks,Online,Maybe,3
+39,3,South Mumbai,385000,Dettol,Monthly,Online (Blinkit/BigBasket),Yes,3
+18,4,Western Suburbs,180000,Dove,Weekly,Online (Blinkit/BigBasket),Yes,5
+46,4,Western Suburbs,185000,Palmolive,Weekly,Online (Blinkit/BigBasket),Yes,4
+21,2,Eastern Suburbs,160000,Other/Organic,Monthly,Local Kirana,Yes,5
+38,3,Western Suburbs,210000,Godrej Protekt,Monthly,Online (Blinkit/BigBasket),Yes,3
+38,4,South Mumbai,300000,Palmolive,Weekly,Organic Store,Yes,5
+40,1,Western Suburbs,135000,Godrej Protekt,Every 2 Weeks,Large Supermarket,Yes,2
+19,3,Western Suburbs,250000,Palmolive,Monthly,Online (Blinkit/BigBasket),Yes,4
+37,2,Navi Mumbai,55000,Lifebuoy,Monthly,Local Kirana,No,3
+48,2,Eastern Suburbs,65000,Santoor,Monthly,Hypermarket (D-Mart),No,3
+41,4,Western Suburbs,155000,Dove,Weekly,Online (Blinkit/BigBasket),Yes,4
+35,2,South Mumbai,265000,Dettol,Monthly,Organic Store,Yes,4
+45,2,Navi Mumbai,90000,Dettol,Quarterly,Online,Maybe,3
+45,1,Navi Mumbai,110000,Dettol,Quarterly,Organic Store,No,3
+36,3,Eastern Suburbs,160000,Palmolive,Monthly,Local Kirana,Yes,4
+38,3,South Mumbai,315000,Palmolive,Monthly,Online (Blinkit/BigBasket),Yes,4
+47,5,Navi Mumbai,100000,Dettol,Weekly,Local Kirana,No,2
+36,5,South Mumbai,345000,Other/Organic,Weekly,Online (Blinkit/BigBasket),Yes,5
+30,4,Navi Mumbai,125000,Lifebuoy,Weekly,Hypermarket (D-Mart),No,3
+26,2,Western Suburbs,170000,Palmolive,Every 2 Weeks,Online (Blinkit/BigBasket),Yes,5
+18,4,South Mumbai,190000,Other/Organic,Weekly,Large Supermarket,Yes,4
+46,5,South Mumbai,245000,Godrej Protekt,Weekly,Online (Blinkit/BigBasket),Yes,4
+48,3,Thane,60000,Lifebuoy,Every 2 Weeks,Local Kirana,No,4
+51,4,Western Suburbs,130000,Palmolive,Weekly,Online (Blinkit/BigBasket),Yes,4
+61,4,Western Suburbs,115000,Palmolive,Weekly,Online (Blinkit/BigBasket),Yes,4
+39,4,South Mumbai,265000,Palmolive,Weekly,Online (Blinkit/BigBasket),Yes,4
+45,3,Western Suburbs,110000,Dettol,Monthly,Online (Blinkit/BigBasket),No,2
+63,4,Eastern Suburbs,100000,Godrej Protekt,Weekly,Hypermarket (D-Mart),Maybe,3
+42,4,Thane,105000,Godrej Protekt,Weekly,Hypermarket (D-Mart),No,4
+51,2,Navi Mumbai,125000,Palmolive,Every 2 Weeks,Hypermarket (D-Mart),Yes,4
+49,2,South Mumbai,350000,Dettol,Monthly,Online (Blinkit/BigBasket),Yes,3
+38,4,Western Suburbs,155000,Godrej Protekt,Weekly,Online (Blinkit/BigBasket),Yes,4
+38,4,Navi Mumbai,140000,Dettol,Weekly,Hypermarket (D-Mart),Yes,4
+31,3,Thane,90000,Dettol,Monthly,Local Kirana,No,4
+40,1,South Mumbai,115000,Dettol,Monthly,Large Supermarket,No,3
+20,2,Western Suburbs,270000,Godrej Protekt,Every 2 Weeks,Online (Blinkit/BigBasket),Yes,3
+21,6,Navi Mumbai,70000,Dettol,Weekly,Online,No,4
+19,6,Eastern Suburbs,105000,Palmolive,Weekly,Local Kirana,Yes,3
+36,3,Western Suburbs,295000,Dove,Quarterly,Online (Blinkit/BigBasket),Yes,4
+43,4,Thane,95000,Godrej Protekt,Weekly,Local Kirana,Maybe,4
+49,3,Thane,55000,Lifebuoy,Monthly,Local Kirana,Maybe,3
+37,3,Eastern Suburbs,155000,Palmolive,Monthly,Local Kirana,Yes,4
+31,4,South Mumbai,205000,Godrej Protekt,Weekly,Organic Store,Yes,3
+35,2,Navi Mumbai,75000,Local/Other,Every 2 Weeks,Local Kirana,No,3
+33,3,Navi Mumbai,95000,Dettol,Monthly,Local Kirana,Maybe,4
+38,4,Western Suburbs,270000,Palmolive,Weekly,Online (Blinkit/BigBasket),Yes,3
+51,1,South Mumbai,410000,Palmolive,Monthly,Large Supermarket,Yes,5
+45,3,Thane,100000,Dettol,Monthly,Local Kirana,No,3
+40,4,Eastern Suburbs,70000,Lifebuoy,Weekly,Local Kirana,Maybe,5
+24,4,Thane,85000,Savlon,Weekly,Hypermarket (D-Mart),No,3
+23,4,Western Suburbs,110000,Dettol,Weekly,Online (Blinkit/BigBasket),No,4
+46,3,Thane,70000,Dettol,Quarterly,Local Kirana,No,4
+54,3,Eastern Suburbs,165000,Other/Organic,Monthly,Local Kirana,Yes,4
+52,4,Eastern Suburbs,75000,Santoor,Weekly,Online,Maybe,4
+35,2,Western Suburbs,295000,Dove,Monthly,Online (Blinkit/BigBasket),Yes,5
+32,6,Eastern Suburbs,90000,Godrej Protekt,Weekly,Local Kirana,No,3
+35,2,South Mumbai,145000,Dettol,Monthly,Online (Blinkit/BigBasket),Yes,4
+18,4,Navi Mumbai,110000,Dettol,Weekly,Local Kirana,Maybe,3
+32,4,Navi Mumbai,120000,Savlon,Weekly,Online,Maybe,5
+35,3,South Mumbai,410000,Palmolive,Every 2 Weeks,Online (Blinkit/BigBasket),Yes,4
+36,1,Thane,55000,Local/Other,Quarterly,Local Kirana,No,2
+34,3,Eastern Suburbs,115000,Godrej Protekt,Every 2 Weeks,Local Kirana,Maybe,4
+42,6,Navi Mumbai,65000,Santoor,Weekly,Local Kirana,No,2
+45,5,Western Suburbs,240000,Dove,Weekly,Large Supermarket,Yes,4
+31,5,Thane,90000,Godrej Protekt,Weekly,Local Kirana,No,4
+27,4,Western Suburbs,395000,Palmolive,Weekly,Local Kirana,Yes,5
+39,4,Western Suburbs,255000,Dettol,Weekly,Online (Blinkit/BigBasket),Yes,4
+47,4,Western Suburbs,270000,Dove,Weekly,Organic Store,Yes,4
+34,3,South Mumbai,220000,Dove,Monthly,Online (Blinkit/BigBasket),Yes,5
+28,2,Western Suburbs,110000,Godrej Protekt,Monthly,Large Supermarket,No,3
+36,3,Western Suburbs,90000,Dettol,Monthly,Local Kirana,No,4
+51,4,Eastern Suburbs,140000,Lifebuoy,Weekly,Local Kirana,Yes,4
+33,5,Western Suburbs,105000,Lifebuoy,Weekly,Online (Blinkit/BigBasket),Maybe,4
+26,3,Eastern Suburbs,155000,Dove,Monthly,Hypermarket (D-Mart),Yes,4
+29,2,Navi Mumbai,70000,Santoor,Every 2 Weeks,Local Kirana,No,2
+18,6,South Mumbai,250000,Dettol,Weekly,Large Supermarket,Yes,5
+41,4,South Mumbai,350000,Dettol,Weekly,Online (Blinkit/BigBasket),Yes,4
+20,4,Western Suburbs,310000,Dove,Weekly,Online (Blinkit/BigBasket),Yes,5
+44,3,Navi Mumbai,105000,Dettol,Monthly,Local Kirana,No,3
+42,2,Western Suburbs,115000,Dettol,Monthly,Large Supermarket,No,3
+52,3,Western Suburbs,370000,Palmolive,Monthly,Online (Blinkit/BigBasket),Yes,3
+46,6,Western Suburbs,125000,Dettol,Weekly,Large Supermarket,No,5
+23,3,Western Suburbs,110000,Savlon,Every 2 Weeks,Organic Store,Maybe,3
+39,3,Eastern Suburbs,95000,Dettol,Monthly,Organic Store,No,4
+33,1,Eastern Suburbs,120000,Lifebuoy,Every 2 Weeks,Hypermarket (D-Mart),Maybe,5
+34,4,Eastern Suburbs,100000,Godrej Protekt,Weekly,Hypermarket (D-Mart),No,3
+23,6,Western Suburbs,325000,Dove,Weekly,Organic Store,Yes,4
+27,4,Eastern Suburbs,75000,Savlon,Weekly,Hypermarket (D-Mart),No,4
+24,3,South Mumbai,150000,Lifebuoy,Monthly,Online (Blinkit/BigBasket),Yes,4
+59,3,Western Suburbs,320000,Dove,Quarterly,Organic Store,Yes,3
+31,5,Western Suburbs,295000,Dettol,Weekly,Large Supermarket,Yes,5
+34,2,Western Suburbs,240000,Palmolive,Quarterly,Large Supermarket,Yes,4
+35,4,Navi Mumbai,115000,Dettol,Weekly,Local Kirana,Maybe,4
+29,1,South Mumbai,165000,Other/Organic,Monthly,Local Kirana,Yes,4
+36,3,Western Suburbs,120000,Godrej Protekt,Every 2 Weeks,Large Supermarket,No,2
+28,6,Western Suburbs,105000,Godrej Protekt,Weekly,Local Kirana,Maybe,3
+31,2,South Mumbai,305000,Palmolive,Monthly,Local Kirana,Yes,4
+19,4,Navi Mumbai,95000,Savlon,Weekly,Local Kirana,No,4
+30,3,Western Suburbs,280000,Godrej Protekt,Monthly,Online (Blinkit/BigBasket),Yes,4
+31,2,Western Suburbs,260000,Palmolive,Monthly,Online (Blinkit/BigBasket),Yes,4
+25,4,South Mumbai,240000,Dettol,Weekly,Online (Blinkit/BigBasket),Yes,4
+31,4,Eastern Suburbs,110000,Dettol,Weekly,Local Kirana,No,3
+28,4,Navi Mumbai,90000,Dettol,Weekly,Hypermarket (D-Mart),Maybe,4
+59,4,Thane,105000,Godrej Protekt,Weekly,Hypermarket (D-Mart),Maybe,3
+41,3,Eastern Suburbs,135000,Dettol,Every 2 Weeks,Hypermarket (D-Mart),Yes,4
+21,3,South Mumbai,335000,Godrej Protekt,Every 2 Weeks,Online (Blinkit/BigBasket),Yes,4
+49,3,South Mumbai,115000,Dettol,Quarterly,Online (Blinkit/BigBasket),No,4
+22,2,Eastern Suburbs,125000,Palmolive,Monthly,Local Kirana,Yes,4
+52,4,South Mumbai,350000,Godrej Protekt,Weekly,Online (Blinkit/BigBasket),Yes,5
+24,3,Western Suburbs,220000,Other/Organic,Every 2 Weeks,Online (Blinkit/BigBasket),Yes,3
+39,3,Western Suburbs,275000,Dettol,Monthly,Organic Store,Yes,5
+33,4,Western Suburbs,250000,Dettol,Weekly,Large Supermarket,Yes,5
+39,5,Western Suburbs,100000,Dettol,Weekly,Local Kirana,No,3
+36,4,Navi Mumbai,110000,Savlon,Weekly,Hypermarket (D-Mart),No,2
+55,5,Western Suburbs,230000,Dettol,Weekly,Online (Blinkit/BigBasket),Yes,4
+33,4,Eastern Suburbs,85000,Savlon,Weekly,Hypermarket (D-Mart),No,3
+49,4,Western Suburbs,75000,Santoor,Weekly,Local Kirana,No,3
+34,3,Western Suburbs,130000,Dettol,Monthly,Local Kirana,Yes,5
+54,5,Western Suburbs,220000,Dove,Weekly,Online (Blinkit/BigBasket),Yes,4
+48,2,Navi Mumbai,100000,Savlon,Monthly,Local Kirana,No,3
+58,4,Eastern Suburbs,155000,Palmolive,Weekly,Hypermarket (D-Mart),Yes,5
+48,4,Eastern Suburbs,150000,Savlon,Weekly,Local Kirana,Yes,4
+28,2,South Mumbai,190000,Dove,Monthly,Local Kirana,Yes,3
+24,4,Thane,95000,Dettol,Weekly,Local Kirana,No,5
+56,2,Western Suburbs,170000,Palmolive,Every 2 Weeks,Online (Blinkit/BigBasket),Yes,5
+37,3,Navi Mumbai,135000,Dettol,Monthly,Online,Yes,3
+41,3,Navi Mumbai,90000,Dettol,Every 2 Weeks,Hypermarket (D-Mart),No,3
+45,2,Western Suburbs,220000,Palmolive,Monthly,Large Supermarket,Yes,5
+25,2,Thane,105000,Dettol,Every 2 Weeks,Hypermarket (D-Mart),No,3
+35,1,Navi Mumbai,60000,Local/Other,Every 2 Weeks,Local Kirana,No,2
+38,4,Western Suburbs,330000,Palmolive,Weekly,Online (Blinkit/BigBasket),Yes,4
+44,2,Western Suburbs,210000,Dove,Quarterly,Large Supermarket,Yes,3
+27,4,Western Suburbs,210000,Dove,Weekly,Online (Blinkit/BigBasket),Yes,4
+32,4,Thane,80000,Dettol,Weekly,Local Kirana,No,4
+31,3,Western Suburbs,230000,Dove,Every 2 Weeks,Online (Blinkit/BigBasket),Yes,5
+28,4,Navi Mumbai,75000,Lifebuoy,Weekly,Local Kirana,Maybe,3
+20,5,Navi Mumbai,125000,Palmolive,Weekly,Local Kirana,Yes,5
+45,3,Eastern Suburbs,115000,Dettol,Monthly,Hypermarket (D-Mart),Maybe,3
+18,4,Navi Mumbai,100000,Godrej Protekt,Weekly,Hypermarket (D-Mart),Maybe,4
+22,4,Thane,95000,Dettol,Weekly,Online,No,4
+29,5,Western Suburbs,230000,Palmolive,Weekly,Online (Blinkit/BigBasket),Yes,4
+36,6,Eastern Suburbs,105000,Lifebuoy,Weekly,Hypermarket (D-Mart),No,4
+33,2,Western Suburbs,80000,Savlon,Monthly,Hypermarket (D-Mart),No,4
+27,4,South Mumbai,350000,Dove,Weekly,Large Supermarket,Yes,5
+50,3,Western Suburbs,170000,Dove,Monthly,Online (Blinkit/BigBasket),Yes,4
+45,2,Western Suburbs,150000,Dettol,Monthly,Online (Blinkit/BigBasket),Yes,4
+49,3,Navi Mumbai,120000,Savlon,Quarterly,Hypermarket (D-Mart),Maybe,4
+49,1,Navi Mumbai,70000,Savlon,Every 2 Weeks,Hypermarket (D-Mart),Maybe,2
+37,3,Eastern Suburbs,85000,Dettol,Monthly,Hypermarket (D-Mart),No,4
+43,4,Thane,65000,Local/Other,Weekly,Hypermarket (D-Mart),No,3
+18,5,South Mumbai,265000,Dove,Weekly,Local Kirana,Yes,3
+30,4,South Mumbai,400000,Palmolive,Weekly,Organic Store,Yes,4
+38,4,Western Suburbs,85000,Lifebuoy,Weekly,Hypermarket (D-Mart),Maybe,3
+43,2,Navi Mumbai,110000,Savlon,Every 2 Weeks,Local Kirana,Maybe,3
+44,3,Eastern Suburbs,95000,Godrej Protekt,Every 2 Weeks,Online,No,2
+45,2,Navi Mumbai,60000,Lifebuoy,Monthly,Local Kirana,No,3
+36,1,Thane,100000,Savlon,Every 2 Weeks,Local Kirana,No,4
+43,3,Navi Mumbai,80000,Savlon,Monthly,Hypermarket (D-Mart),No,5
+53,4,Western Suburbs,245000,Palmolive,Weekly,Online (Blinkit/BigBasket),Yes,5
+33,4,South Mumbai,420000,Godrej Protekt,Weekly,Large Supermarket,Yes,3
+29,2,Eastern Suburbs,100000,Savlon,Every 2 Weeks,Local Kirana,Maybe,4
+33,2,Thane,85000,Dettol,Every 2 Weeks,Local Kirana,Maybe,2
+32,4,South Mumbai,270000,Dove,Weekly,Online (Blinkit/BigBasket),Yes,4
+27,4,Thane,55000,Lifebuoy,Weekly,Local Kirana,No,3
+31,3,Eastern Suburbs,105000,Savlon,Quarterly,Hypermarket (D-Mart),No,3
+30,2,Western Suburbs,105000,Godrej Protekt,Monthly,Online (Blinkit/BigBasket),Maybe,4
+26,3,Eastern Suburbs,145000,Dettol,Every 2 Weeks,Local Kirana,Yes,4
+49,3,Thane,85000,Dettol,Monthly,Online,No,4
+29,5,Thane,45000,Dettol,Weekly,Local Kirana,Maybe,4
+34,4,Western Suburbs,100000,Dettol,Weekly,Hypermarket (D-Mart),Maybe,2
+46,4,Navi Mumbai,90000,Godrej Protekt,Weekly,Local Kirana,Maybe,3
+51,4,Navi Mumbai,125000,Lifebuoy,Weekly,Local Kirana,Maybe,4
+50,4,Eastern Suburbs,135000,Dettol,Weekly,Local Kirana,Yes,3
+25,1,Western Suburbs,230000,Godrej Protekt,Monthly,Online (Blinkit/BigBasket),Yes,4
+48,4,Western Suburbs,170000,Palmolive,Weekly,Local Kirana,Yes,3
+27,3,Eastern Suburbs,55000,Dettol,Quarterly,Local Kirana,Maybe,4
+23,1,South Mumbai,330000,Dove,Every 2 Weeks,Organic Store,Yes,4
+34,5,South Mumbai,280000,Dettol,Weekly,Local Kirana,Yes,5
+34,3,Western Suburbs,170000,Dove,Every 2 Weeks,Large Supermarket,Yes,5
+43,3,Eastern Suburbs,95000,Dettol,Every 2 Weeks,Local Kirana,Maybe,3
+36,3,Western Suburbs,215000,Palmolive,Monthly,Large Supermarket,Yes,4
+39,4,Eastern Suburbs,130000,Dettol,Weekly,Local Kirana,Yes,5
+65,2,South Mumbai,435000,Other/Organic,Monthly,Online (Blinkit/BigBasket),Yes,3
+39,2,Thane,95000,Dettol,Monthly,Online,Maybe,3
+35,5,Eastern Suburbs,125000,Dettol,Weekly,Local Kirana,Maybe,4
+38,3,Navi Mumbai,100000,Palmolive,Quarterly,Local Kirana,Yes,1
+40,6,Navi Mumbai,75000,Lifebuoy,Weekly,Online,No,4
+34,3,Navi Mumbai,100000,Lifebuoy,Every 2 Weeks,Local Kirana,No,4
+27,3,Navi Mumbai,85000,Palmolive,Every 2 Weeks,Local Kirana,Yes,4
+46,3,Thane,40000,Santoor,Monthly,Hypermarket (D-Mart),Maybe,3
+43,4,Navi Mumbai,125000,Godrej Protekt,Weekly,Local Kirana,No,5
+18,1,South Mumbai,220000,Palmolive,Monthly,Organic Store,Yes,3
+36,3,South Mumbai,145000,Savlon,Monthly,Large Supermarket,Yes,4
+34,3,South Mumbai,195000,Palmolive,Monthly,Organic Store,Yes,4
+32,3,Western Suburbs,150000,Godrej Protekt,Quarterly,Large Supermarket,Yes,5
+26,5,Western Suburbs,200000,Dove,Weekly,Large Supermarket,Yes,5
+38,2,Eastern Suburbs,140000,Palmolive,Monthly,Hypermarket (D-Mart),Yes,4
+40,3,Eastern Suburbs,115000,Dettol,Every 2 Weeks,Hypermarket (D-Mart),Maybe,3
+29,3,Navi Mumbai,110000,Dettol,Monthly,Local Kirana,Maybe,4
+28,3,Navi Mumbai,80000,Palmolive,Monthly,Hypermarket (D-Mart),Yes,3
+45,3,Thane,115000,Dettol,Monthly,Local Kirana,Maybe,3
+41,4,Eastern Suburbs,190000,Dettol,Weekly,Organic Store,Yes,3
+29,4,Navi Mumbai,105000,Dettol,Weekly,Local Kirana,No,3
+20,2,Eastern Suburbs,100000,Dettol,Every 2 Weeks,Hypermarket (D-Mart),No,2
+31,4,Navi Mumbai,90000,Palmolive,Weekly,Local Kirana,Yes,4
+18,2,Navi Mumbai,105000,Godrej Protekt,Monthly,Hypermarket (D-Mart),Maybe,4
+38,3,Navi Mumbai,85000,Dettol,Every 2 Weeks,Local Kirana,Maybe,3
+33,3,Navi Mumbai,85000,Savlon,Monthly,Local Kirana,No,3
+58,3,Thane,95000,Palmolive,Monthly,Organic Store,Yes,3
+33,3,South Mumbai,110000,Dettol,Monthly,Online (Blinkit/BigBasket),Maybe,4
+37,4,Western Suburbs,90000,Palmolive,Weekly,Hypermarket (D-Mart),Yes,3
+18,3,Navi Mumbai,60000,Lifebuoy,Every 2 Weeks,Local Kirana,No,3
+36,6,Eastern Suburbs,65000,Dettol,Weekly,Local Kirana,Maybe,3
+50,4,South Mumbai,170000,Dettol,Weekly,Large Supermarket,Yes,4
+23,3,Western Suburbs,320000,Palmolive,Monthly,Organic Store,Yes,5
+24,6,Navi Mumbai,95000,Dettol,Weekly,Local Kirana,No,3
+45,3,South Mumbai,265000,Dove,Every 2 Weeks,Online (Blinkit/BigBasket),Yes,4
+40,2,Western Suburbs,345000,Palmolive,Quarterly,Local Kirana,Yes,4
+36,2,Navi Mumbai,90000,Savlon,Every 2 Weeks,Hypermarket (D-Mart),No,3
+40,4,Western Suburbs,135000,Savlon,Weekly,Large Supermarket,Yes,4
+51,2,Western Suburbs,210000,Dettol,Monthly,Online (Blinkit/BigBasket),Yes,5
+42,2,South Mumbai,290000,Palmolive,Monthly,Organic Store,Yes,4
+34,1,Navi Mumbai,90000,Godrej Protekt,Every 2 Weeks,Local Kirana,Maybe,3
+28,3,Thane,95000,Lifebuoy,Quarterly,Hypermarket (D-Mart),Maybe,4
+40,3,Navi Mumbai,105000,Dettol,Every 2 Weeks,Online,Maybe,2
+31,6,Eastern Suburbs,125000,Savlon,Weekly,Hypermarket (D-Mart),No,5
+26,5,Navi Mumbai,140000,Palmolive,Weekly,Local Kirana,Yes,4
+32,2,Navi Mumbai,100000,Dettol,Monthly,Online,Maybe,1
+18,4,South Mumbai,360000,Palmolive,Weekly,Large Supermarket,Yes,5
+25,5,Navi Mumbai,95000,Dettol,Weekly,Local Kirana,Maybe,4
+43,1,South Mumbai,445000,Palmolive,Monthly,Online (Blinkit/BigBasket),Yes,2
+49,4,Western Suburbs,185000,Palmolive,Weekly,Online (Blinkit/BigBasket),Yes,5
+30,3,Navi Mumbai,130000,Palmolive,Quarterly,Hypermarket (D-Mart),Yes,5
+55,1,Western Suburbs,205000,Godrej Protekt,Every 2 Weeks,Large Supermarket,Yes,5
+43,3,Eastern Suburbs,140000,Palmolive,Every 2 Weeks,Local Kirana,Yes,3
+42,4,Eastern Suburbs,135000,Godrej Protekt,Weekly,Local Kirana,Yes,4
+47,5,Thane,65000,Savlon,Weekly,Local Kirana,Maybe,4
+47,4,Western Suburbs,335000,Dove,Weekly,Online (Blinkit/BigBasket),Yes,5
+43,3,Western Suburbs,90000,Palmolive,Every 2 Weeks,Hypermarket (D-Mart),Yes,4
+19,4,Thane,100000,Savlon,Weekly,Organic Store,Maybe,3
+43,2,Eastern Suburbs,155000,Dove,Monthly,Local Kirana,Yes,4
+30,3,Thane,105000,Godrej Protekt,Monthly,Local Kirana,No,3
+36,3,Eastern Suburbs,95000,Dettol,Monthly,Local Kirana,No,3
+30,4,Western Suburbs,165000,Palmolive,Weekly,Online (Blinkit/BigBasket),Yes,3
+51,4,Thane,60000,Dettol,Weekly,Hypermarket (D-Mart),Maybe,4
+30,6,Western Suburbs,110000,Savlon,Weekly,Online (Blinkit/BigBasket),No,2
+52,4,South Mumbai,235000,Palmolive,Weekly,Online (Blinkit/BigBasket),Yes,4
+35,3,Western Suburbs,160000,Godrej Protekt,Quarterly,Large Supermarket,Yes,3
+29,4,South Mumbai,285000,Godrej Protekt,Weekly,Online (Blinkit/BigBasket),Yes,4
+49,4,South Mumbai,210000,Palmolive,Weekly,Large Supermarket,Yes,5
+42,2,Thane,80000,Godrej Protekt,Monthly,Local Kirana,Maybe,3
+32,6,Eastern Suburbs,105000,Palmolive,Weekly,Local Kirana,Yes,2
+35,2,Navi Mumbai,110000,Lifebuoy,Monthly,Local Kirana,No,3
+36,4,Navi Mumbai,105000,Dettol,Weekly,Hypermarket (D-Mart),Maybe,3
+39,1,Western Suburbs,150000,Dettol,Every 2 Weeks,Online (Blinkit/BigBasket),Yes,4
+54,4,South Mumbai,300000,Palmolive,Weekly,Local Kirana,Yes,4
+41,5,Navi Mumbai,95000,Dettol,Weekly,Hypermarket (D-Mart),No,3
+27,3,Navi Mumbai,135000,Savlon,Monthly,Local Kirana,Yes,5
+39,4,Western Suburbs,190000,Godrej Protekt,Weekly,Online (Blinkit/BigBasket),Yes,5
+18,4,Navi Mumbai,135000,Dettol,Weekly,Hypermarket (D-Mart),Yes,3
+31,3,Western Suburbs,200000,Palmolive,Monthly,Organic Store,Yes,4
+30,4,South Mumbai,200000,Palmolive,Weekly,Online (Blinkit/BigBasket),Yes,5
+41,5,South Mumbai,350000,Godrej Protekt,Weekly,Online (Blinkit/BigBasket),Yes,3
+24,3,Western Suburbs,205000,Dove,Monthly,Organic Store,Yes,4
+42,6,Navi Mumbai,80000,Dettol,Weekly,Local Kirana,No,3
+33,4,Thane,80000,Dettol,Weekly,Online,No,3
+40,3,Navi Mumbai,100000,Dettol,Monthly,Local Kirana,No,3
+37,2,Western Suburbs,115000,Dettol,Every 2 Weeks,Organic Store,Maybe,4
+33,3,Western Suburbs,220000,Palmolive,Every 2 Weeks,Online (Blinkit/BigBasket),Yes,4
+47,3,Western Suburbs,185000,Dove,Monthly,Large Supermarket,Yes,5
+18,5,Western Suburbs,225000,Dove,Weekly,Online (Blinkit/BigBasket),Yes,5
+32,2,Eastern Suburbs,135000,Dettol,Monthly,Online,Yes,4
+18,1,Western Suburbs,270000,Palmolive,Monthly,Large Supermarket,Yes,5
+23,1,Eastern Suburbs,140000,Savlon,Monthly,Hypermarket (D-Mart),Yes,5
+18,4,Navi Mumbai,90000,Dettol,Weekly,Online,No,3
+33,4,Eastern Suburbs,175000,Palmolive,Weekly,Local Kirana,Yes,4
+45,6,Thane,45000,Dettol,Weekly,Local Kirana,Maybe,1
+18,2,Navi Mumbai,85000,Dettol,Every 2 Weeks,Local Kirana,No,4
+50,1,Navi Mumbai,75000,Santoor,Monthly,Local Kirana,No,4
+27,4,Navi Mumbai,100000,Palmolive,Weekly,Hypermarket (D-Mart),Yes,4
+23,4,Navi Mumbai,100000,Godrej Protekt,Weekly,Local Kirana,Maybe,4
+39,4,Thane,85000,Godrej Protekt,Weekly,Online,No,3
+34,4,Eastern Suburbs,90000,Dettol,Weekly,Local Kirana,Maybe,3
+45,3,Western Suburbs,140000,Dettol,Monthly,Online (Blinkit/BigBasket),Yes,4
+48,3,Navi Mumbai,105000,Dettol,Quarterly,Hypermarket (D-Mart),Maybe,3
+42,2,Western Suburbs,220000,Palmolive,Monthly,Organic Store,Yes,3
+28,2,Navi Mumbai,110000,Dettol,Monthly,Local Kirana,Maybe,4
+32,4,South Mumbai,125000,Godrej Protekt,Weekly,Online (Blinkit/BigBasket),No,5
+43,6,Thane,100000,Palmolive,Weekly,Local Kirana,Yes,3
+44,4,Eastern Suburbs,215000,Palmolive,Weekly,Local Kirana,Yes,4
+49,4,Western Suburbs,165000,Godrej Protekt,Weekly,Online (Blinkit/BigBasket),Yes,4
+42,4,South Mumbai,125000,Palmolive,Weekly,Large Supermarket,Yes,5
+46,4,Eastern Suburbs,125000,Lifebuoy,Weekly,Hypermarket (D-Mart),No,4
+21,4,Navi Mumbai,135000,Lifebuoy,Weekly,Local Kirana,Yes,4
+42,4,Eastern Suburbs,65000,Dettol,Weekly,Hypermarket (D-Mart),No,4
+57,4,Western Suburbs,230000,Palmolive,Weekly,Online (Blinkit/BigBasket),Yes,4
+22,4,Eastern Suburbs,110000,Godrej Protekt,Weekly,Hypermarket (D-Mart),Maybe,4
+41,4,South Mumbai,360000,Dettol,Weekly,Local Kirana,Yes,5
+18,2,Eastern Suburbs,120000,Dettol,Quarterly,Hypermarket (D-Mart),No,3
+27,4,Western Suburbs,300000,Dettol,Weekly,Large Supermarket,Yes,4
+42,3,Western Suburbs,275000,Other/Organic,Every 2 Weeks,Organic Store,Yes,3
+35,4,Eastern Suburbs,65000,Lifebuoy,Weekly,Local Kirana,No,3
+33,1,Navi Mumbai,75000,Lifebuoy,Monthly,Local Kirana,Maybe,3
+18,4,Western Suburbs,165000,Palmolive,Weekly,Online (Blinkit/BigBasket),Yes,4
+27,4,South Mumbai,140000,Dettol,Weekly,Organic Store,Yes,4
+45,2,South Mumbai,145000,Savlon,Monthly,Large Supermarket,Yes,4
+38,3,Navi Mumbai,70000,Dettol,Every 2 Weeks,Local Kirana,Maybe,2
+46,1,Eastern Suburbs,105000,Savlon,Monthly,Hypermarket (D-Mart),No,3
+31,3,Navi Mumbai,120000,Lifebuoy,Monthly,Local Kirana,Maybe,4
+35,3,Eastern Suburbs,160000,Dove,Monthly,Local Kirana,Yes,5
+53,2,Western Suburbs,140000,Lifebuoy,Every 2 Weeks,Large Supermarket,Yes,4
+60,2,Eastern Suburbs,120000,Dettol,Monthly,Local Kirana,No,3
+26,2,Western Suburbs,280000,Palmolive,Quarterly,Local Kirana,Yes,4
+32,4,Eastern Suburbs,100000,Dettol,Weekly,Hypermarket (D-Mart),No,3
+41,2,Navi Mumbai,75000,Savlon,Every 2 Weeks,Local Kirana,Maybe,2
+41,4,Thane,55000,Dettol,Weekly,Local Kirana,Maybe,4
+25,2,Eastern Suburbs,175000,Dove,Monthly,Hypermarket (D-Mart),Yes,4
+18,4,Western Suburbs,395000,Dettol,Weekly,Online (Blinkit/BigBasket),Yes,4
+29,3,Navi Mumbai,100000,Lifebuoy,Monthly,Local Kirana,Maybe,3
+18,4,South Mumbai,175000,Palmolive,Weekly,Online (Blinkit/BigBasket),Yes,5
+38,3,Western Suburbs,135000,Dettol,Monthly,Online (Blinkit/BigBasket),Yes,3
+39,2,Navi Mumbai,105000,Savlon,Quarterly,Local Kirana,Maybe,3
+37,4,South Mumbai,195000,Palmolive,Weekly,Online (Blinkit/BigBasket),Yes,5
+41,3,Thane,85000,Godrej Protekt,Monthly,Hypermarket (D-Mart),No,3
+26,3,Thane,115000,Dettol,Monthly,Hypermarket (D-Mart),No,4
+24,1,Thane,75000,Lifebuoy,Monthly,Hypermarket (D-Mart),No,3
+43,1,Western Suburbs,115000,Dettol,Monthly,Online (Blinkit/BigBasket),No,3
+18,3,Western Suburbs,235000,Dettol,Monthly,Large Supermarket,Yes,5
+42,1,Thane,35000,Lifebuoy,Monthly,Local Kirana,No,3
+48,3,Thane,60000,Lifebuoy,Monthly,Local Kirana,No,2
+38,3,South Mumbai,250000,Palmolive,Monthly,Online (Blinkit/BigBasket),Yes,5
+37,5,Western Suburbs,170000,Godrej Protekt,Weekly,Large Supermarket,Yes,3
+38,4,Thane,105000,Dettol,Weekly,Local Kirana,Maybe,4
+34,4,Navi Mumbai,90000,Dettol,Weekly,Organic Store,Maybe,4
+52,1,South Mumbai,295000,Dove,Every 2 Weeks,Online (Blinkit/BigBasket),Yes,4
+39,4,Eastern Suburbs,200000,Palmolive,Weekly,Organic Store,Yes,4
+31,1,Western Suburbs,240000,Dove,Every 2 Weeks,Large Supermarket,Yes,4
+18,4,Western Suburbs,280000,Dove,Weekly,Online (Blinkit/BigBasket),Yes,5
+29,2,Western Suburbs,115000,Savlon,Monthly,Organic Store,Maybe,4
+41,3,Western Suburbs,190000,Palmolive,Quarterly,Online (Blinkit/BigBasket),Yes,4
+39,1,Thane,75000,Dettol,Every 2 Weeks,Hypermarket (D-Mart),No,4
+32,3,Eastern Suburbs,75000,Dettol,Quarterly,Hypermarket (D-Mart),Maybe,4
+18,4,Western Suburbs,275000,Godrej Protekt,Weekly,Online (Blinkit/BigBasket),Yes,5
+32,3,Western Suburbs,235000,Godrej Protekt,Every 2 Weeks,Online (Blinkit/BigBasket),Yes,4
+39,1,Western Suburbs,180000,Palmolive,Monthly,Large Supermarket,Yes,4
+55,6,Western Suburbs,145000,Palmolive,Weekly,Organic Store,Yes,4
+51,3,Thane,95000,Savlon,Monthly,Local Kirana,No,4
+38,4,Navi Mumbai,125000,Savlon,Weekly,Local Kirana,No,4
+35,3,Western Suburbs,160000,Dove,Monthly,Online (Blinkit/BigBasket),Yes,5
+34,4,Western Suburbs,170000,Godrej Protekt,Weekly,Organic Store,Yes,5
+50,3,Thane,125000,Dettol,Monthly,Hypermarket (D-Mart),No,4
+21,3,South Mumbai,265000,Dove,Every 2 Weeks,Online (Blinkit/BigBasket),Yes,5
+40,2,Western Suburbs,175000,Palmolive,Every 2 Weeks,Large Supermarket,Yes,4
+30,1,Eastern Suburbs,160000,Other/Organic,Every 2 Weeks,Local Kirana,Yes,4
+34,1,Thane,45000,Dettol,Monthly,Local Kirana,No,4
+28,1,South Mumbai,275000,Dove,Quarterly,Online (Blinkit/BigBasket),Yes,5
+24,5,Western Suburbs,175000,Dove,Weekly,Online (Blinkit/BigBasket),Yes,5
+40,2,Western Suburbs,150000,Palmolive,Quarterly,Online (Blinkit/BigBasket),Yes,4
+45,2,Eastern Suburbs,85000,Palmolive,Every 2 Weeks,Local Kirana,Yes,3
+24,3,Western Suburbs,135000,Savlon,Monthly,Large Supermarket,Yes,3
+30,3,Western Suburbs,180000,Godrej Protekt,Every 2 Weeks,Online (Blinkit/BigBasket),Yes,4
+25,4,Western Suburbs,155000,Dettol,Weekly,Organic Store,Yes,5
+30,2,Western Suburbs,235000,Dettol,Monthly,Organic Store,Yes,4
+41,3,Western Suburbs,235000,Palmolive,Every 2 Weeks,Local Kirana,Yes,4
+42,4,Western Suburbs,295000,Palmolive,Weekly,Online (Blinkit/BigBasket),Yes,5
+19,3,Eastern Suburbs,120000,Palmolive,Every 2 Weeks,Online,Yes,2
+38,4,Navi Mumbai,50000,Savlon,Weekly,Local Kirana,No,4
+25,4,Thane,65000,Savlon,Weekly,Local Kirana,Maybe,3
+45,3,Thane,90000,Savlon,Monthly,Hypermarket (D-Mart),No,3
+46,2,Western Suburbs,240000,Palmolive,Monthly,Large Supermarket,Yes,3
+47,1,Western Suburbs,255000,Palmolive,Monthly,Organic Store,Yes,4
+32,2,Western Suburbs,155000,Palmolive,Monthly,Online (Blinkit/BigBasket),Yes,4
+29,4,Eastern Suburbs,190000,Palmolive,Weekly,Online,Yes,4
+36,1,Eastern Suburbs,70000,Dettol,Monthly,Online,No,5
+25,3,South Mumbai,310000,Other/Organic,Monthly,Large Supermarket,Yes,5
+34,1,Navi Mumbai,80000,Dettol,Monthly,Hypermarket (D-Mart),No,4
+26,4,South Mumbai,270000,Palmolive,Weekly,Online (Blinkit/BigBasket),Yes,5
+27,3,South Mumbai,320000,Dettol,Every 2 Weeks,Online (Blinkit/BigBasket),Yes,5
+21,1,Navi Mumbai,95000,Palmolive,Quarterly,Hypermarket (D-Mart),Yes,3
+37,3,Eastern Suburbs,125000,Dettol,Every 2 Weeks,Local Kirana,Maybe,3
+51,5,South Mumbai,475000,Dove,Weekly,Organic Store,Yes,2
+27,4,Western Suburbs,240000,Palmolive,Weekly,Online (Blinkit/BigBasket),Yes,3
+38,4,Eastern Suburbs,140000,Palmolive,Weekly,Online,Yes,3
+44,2,Eastern Suburbs,55000,Lifebuoy,Monthly,Hypermarket (D-Mart),No,4
+35,4,Western Suburbs,205000,Palmolive,Weekly,Online (Blinkit/BigBasket),Yes,3
+48,2,South Mumbai,290000,Dettol,Every 2 Weeks,Online (Blinkit/BigBasket),Yes,5
+26,4,Navi Mumbai,130000,Palmolive,Weekly,Hypermarket (D-Mart),Yes,4
+51,3,Navi Mumbai,70000,Santoor,Monthly,Local Kirana,No,2
+31,4,South Mumbai,310000,Palmolive,Weekly,Large Supermarket,Yes,4
+32,3,Western Suburbs,325000,Palmolive,Every 2 Weeks,Large Supermarket,Yes,5
+29,3,Thane,80000,Dettol,Monthly,Organic Store,No,3
+25,5,Western Suburbs,180000,Dove,Weekly,Large Supermarket,Yes,4
+30,4,Western Suburbs,330000,Godrej Protekt,Weekly,Local Kirana,Yes,5
+62,4,Western Suburbs,180000,Palmolive,Weekly,Online (Blinkit/BigBasket),Yes,4
+41,2,Western Suburbs,105000,Savlon,Monthly,Organic Store,No,2
+38,1,Western Suburbs,210000,Other/Organic,Monthly,Online (Blinkit/BigBasket),Yes,5
+33,4,South Mumbai,145000,Lifebuoy,Weekly,Large Supermarket,Yes,4
+60,4,Eastern Suburbs,150000,Dettol,Weekly,Online,Yes,4
+42,1,South Mumbai,230000,Dove,Monthly,Organic Store,Yes,3
+51,6,Navi Mumbai,50000,Local/Other,Weekly,Local Kirana,No,3
+34,4,Western Suburbs,175000,Palmolive,Weekly,Large Supermarket,Yes,4
+21,3,Thane,45000,Savlon,Monthly,Hypermarket (D-Mart),Maybe,3
+49,4,Navi Mumbai,115000,Savlon,Weekly,Local Kirana,No,3
+21,4,Eastern Suburbs,120000,Dettol,Weekly,Local Kirana,No,4
+19,4,Navi Mumbai,60000,Dettol,Weekly,Local Kirana,Maybe,4
+30,3,Western Suburbs,200000,Dove,Monthly,Organic Store,Yes,4
+27,1,South Mumbai,270000,Dove,Monthly,Large Supermarket,Yes,5
+59,1,Thane,115000,Palmolive,Every 2 Weeks,Local Kirana,Yes,3
+18,3,Western Suburbs,370000,Godrej Protekt,Quarterly,Online (Blinkit/BigBasket),Yes,5
+27,1,Western Suburbs,235000,Godrej Protekt,Monthly,Online (Blinkit/BigBasket),Yes,5
+37,4,Western Suburbs,165000,Dove,Weekly,Online (Blinkit/BigBasket),Yes,4
+41,4,South Mumbai,265000,Dove,Weekly,Organic Store,Yes,4
+26,4,South Mumbai,470000,Palmolive,Weekly,Organic Store,Yes,4
+30,3,Navi Mumbai,145000,Dettol,Monthly,Local Kirana,Yes,4
+54,4,Navi Mumbai,120000,Palmolive,Weekly,Local Kirana,Yes,2
+33,4,Navi Mumbai,85000,Savlon,Weekly,Organic Store,Maybe,3
+24,2,Navi Mumbai,140000,Palmolive,Quarterly,Organic Store,Yes,4
+51,3,Western Suburbs,180000,Dove,Monthly,Large Supermarket,Yes,3
+64,4,Western Suburbs,145000,Godrej Protekt,Weekly,Online (Blinkit/BigBasket),Yes,3
+39,3,Western Suburbs,240000,Dove,Monthly,Large Supermarket,Yes,5
+23,3,Eastern Suburbs,105000,Savlon,Monthly,Local Kirana,Maybe,3
+46,1,Eastern Suburbs,125000,Lifebuoy,Every 2 Weeks,Local Kirana,Maybe,3
+18,3,Eastern Suburbs,170000,Palmolive,Every 2 Weeks,Online,Yes,5
+38,4,Eastern Suburbs,105000,Godrej Protekt,Weekly,Online,No,4
+26,2,Western Suburbs,160000,Dove,Monthly,Online (Blinkit/BigBasket),Yes,4
+36,2,Eastern Suburbs,95000,Savlon,Monthly,Local Kirana,No,2
+34,4,Navi Mumbai,105000,Godrej Protekt,Weekly,Online,No,4
+43,1,Navi Mumbai,75000,Savlon,Every 2 Weeks,Local Kirana,Maybe,3
+58,2,Thane,95000,Palmolive,Monthly,Local Kirana,Yes,3
+36,5,Western Suburbs,160000,Dettol,Weekly,Large Supermarket,Yes,4
+34,2,Navi Mumbai,105000,Godrej Protekt,Monthly,Local Kirana,No,4
+56,4,Western Suburbs,150000,Savlon,Weekly,Online (Blinkit/BigBasket),Yes,3
+37,3,Western Suburbs,260000,Dettol,Monthly,Online (Blinkit/BigBasket),Yes,4
+19,1,Thane,75000,Lifebuoy,Every 2 Weeks,Local Kirana,No,3
+44,4,Thane,95000,Dettol,Weekly,Hypermarket (D-Mart),No,3
+36,4,Navi Mumbai,95000,Dettol,Weekly,Local Kirana,No,2
+49,4,Thane,100000,Lifebuoy,Weekly,Local Kirana,No,2
+47,4,South Mumbai,195000,Dettol,Weekly,Online (Blinkit/BigBasket),Yes,5
+33,4,South Mumbai,225000,Palmolive,Weekly,Organic Store,Yes,5
+42,3,Eastern Suburbs,125000,Savlon,Monthly,Hypermarket (D-Mart),No,3
+41,4,South Mumbai,220000,Dettol,Weekly,Large Supermarket,Yes,5
+46,1,South Mumbai,430000,Godrej Protekt,Monthly,Online (Blinkit/BigBasket),Yes,4
+34,4,Western Suburbs,175000,Palmolive,Weekly,Online (Blinkit/BigBasket),Yes,5
+35,3,Eastern Suburbs,100000,Savlon,Monthly,Online,No,3
+34,4,Eastern Suburbs,125000,Savlon,Weekly,Local Kirana,No,4
+41,3,Western Suburbs,190000,Palmolive,Monthly,Online (Blinkit/BigBasket),Yes,5
+44,3,Western Suburbs,105000,Dettol,Monthly,Online (Blinkit/BigBasket),Maybe,3
+41,2,Thane,55000,Lifebuoy,Monthly,Online,No,3
+18,3,South Mumbai,285000,Godrej Protekt,Every 2 Weeks,Online (Blinkit/BigBasket),Yes,5
+49,3,Thane,75000,Santoor,Monthly,Online,No,3
+33,6,South Mumbai,250000,Other/Organic,Weekly,Large Supermarket,Yes,5
+38,4,Western Suburbs,120000,Godrej Protekt,Weekly,Online (Blinkit/BigBasket),Maybe,3
+43,3,Western Suburbs,280000,Palmolive,Monthly,Online (Blinkit/BigBasket),Yes,4
+18,3,Western Suburbs,175000,Dettol,Quarterly,Online (Blinkit/BigBasket),Yes,5
+34,3,Western Suburbs,165000,Palmolive,Monthly,Online (Blinkit/BigBasket),Yes,4
+37,1,Eastern Suburbs,190000,Palmolive,Monthly,Local Kirana,Yes,5
+36,4,Thane,110000,Lifebuoy,Weekly,Hypermarket (D-Mart),No,3
+25,3,Western Suburbs,180000,Dove,Every 2 Weeks,Large Supermarket,Yes,4
+36,4,Western Suburbs,255000,Godrej Protekt,Weekly,Online (Blinkit/BigBasket),Yes,3
+33,3,Eastern Suburbs,60000,Lifebuoy,Quarterly,Organic Store,Maybe,3
+31,5,South Mumbai,170000,Dettol,Weekly,Online (Blinkit/BigBasket),Yes,4
+50,3,Thane,85000,Dettol,Every 2 Weeks,Online,No,3
+49,1,Thane,70000,Lifebuoy,Monthly,Local Kirana,Maybe,3
+31,2,Eastern Suburbs,85000,Dettol,Every 2 Weeks,Hypermarket (D-Mart),No,4
+47,2,Navi Mumbai,90000,Palmolive,Every 2 Weeks,Local Kirana,Yes,3
+50,1,Thane,90000,Dettol,Every 2 Weeks,Hypermarket (D-Mart),Maybe,2
+30,5,Western Suburbs,75000,Dettol,Weekly,Local Kirana,Maybe,3
+43,4,Thane,105000,Savlon,Weekly,Local Kirana,Maybe,2
+33,3,Western Suburbs,260000,Palmolive,Quarterly,Large Supermarket,Yes,5
+33,2,Eastern Suburbs,145000,Lifebuoy,Monthly,Local Kirana,Yes,3
+29,3,Thane,110000,Savlon,Monthly,Hypermarket (D-Mart),Maybe,1
+31,4,Western Suburbs,330000,Godrej Protekt,Weekly,Large Supermarket,Yes,5
+32,1,Navi Mumbai,85000,Godrej Protekt,Monthly,Hypermarket (D-Mart),Maybe,4
+42,4,Eastern Suburbs,85000,Dettol,Weekly,Hypermarket (D-Mart),No,2
+35,3,Western Suburbs,310000,Dove,Monthly,Online (Blinkit/BigBasket),Yes,4
+33,1,Western Suburbs,95000,Lifebuoy,Every 2 Weeks,Hypermarket (D-Mart),No,3
+41,4,Eastern Suburbs,140000,Palmolive,Weekly,Organic Store,Yes,3
+49,1,Eastern Suburbs,170000,Palmolive,Monthly,Hypermarket (D-Mart),Yes,3
+29,4,Eastern Suburbs,100000,Palmolive,Weekly,Local Kirana,Yes,2
+32,3,Navi Mumbai,70000,Santoor,Monthly,Hypermarket (D-Mart),Maybe,4
+34,4,Western Suburbs,290000,Godrej Protekt,Weekly,Online (Blinkit/BigBasket),Yes,4
+39,3,Thane,65000,Lifebuoy,Monthly,Local Kirana,Maybe,3
+58,2,Eastern Suburbs,100000,Godrej Protekt,Quarterly,Hypermarket (D-Mart),No,4
+21,4,Navi Mumbai,100000,Godrej Protekt,Weekly,Local Kirana,No,4
+20,4,Western Suburbs,140000,Dettol,Weekly,Online (Blinkit/BigBasket),Yes,5
+18,4,Navi Mumbai,85000,Lifebuoy,Weekly,Online,No,3
+18,5,Western Suburbs,80000,Savlon,Weekly,Hypermarket (D-Mart),No,3
+36,4,South Mumbai,195000,Dove,Weekly,Online (Blinkit/BigBasket),Yes,4
+28,3,South Mumbai,330000,Palmolive,Monthly,Online (Blinkit/BigBasket),Yes,4
+48,3,South Mumbai,235000,Palmolive,Monthly,Large Supermarket,Yes,4
+22,2,Eastern Suburbs,100000,Dettol,Monthly,Organic Store,No,3
+53,3,Thane,85000,Savlon,Monthly,Hypermarket (D-Mart),Maybe,4
+45,4,Western Suburbs,210000,Palmolive,Weekly,Online (Blinkit/BigBasket),Yes,4
+43,2,Thane,40000,Local/Other,Monthly,Hypermarket (D-Mart),Maybe,5
+37,2,Navi Mumbai,100000,Palmolive,Monthly,Online,Yes,3
+38,2,Eastern Suburbs,95000,Dettol,Quarterly,Hypermarket (D-Mart),No,4
+42,3,Western Suburbs,150000,Godrej Protekt,Every 2 Weeks,Online (Blinkit/BigBasket),Yes,4
+31,2,Eastern Suburbs,150000,Savlon,Monthly,Local Kirana,Yes,4
+50,5,South Mumbai,150000,Savlon,Weekly,Organic Store,Yes,4
+34,5,Western Suburbs,260000,Other/Organic,Weekly,Large Supermarket,Yes,5
+34,3,Western Suburbs,245000,Dettol,Quarterly,Online (Blinkit/BigBasket),Yes,5
+34,3,Navi Mumbai,80000,Dettol,Quarterly,Hypermarket (D-Mart),No,4
+49,3,Thane,105000,Dettol,Quarterly,Local Kirana,Maybe,3
+53,3,Navi Mumbai,110000,Dettol,Every 2 Weeks,Local Kirana,No,2
+23,1,Western Suburbs,215000,Dettol,Every 2 Weeks,Large Supermarket,Yes,3
+54,3,Navi Mumbai,95000,Dettol,Monthly,Hypermarket (D-Mart),Maybe,3
+35,3,Western Suburbs,315000,Godrej Protekt,Monthly,Large Supermarket,Yes,4
+19,3,Thane,115000,Godrej Protekt,Every 2 Weeks,Online,No,2
+18,5,South Mumbai,185000,Dettol,Weekly,Large Supermarket,Yes,5
+36,3,South Mumbai,245000,Dettol,Monthly,Online (Blinkit/BigBasket),Yes,4
+46,3,South Mumbai,190000,Palmolive,Monthly,Organic Store,Yes,4
+35,2,Western Suburbs,305000,Dove,Monthly,Local Kirana,Yes,4
+39,3,South Mumbai,180000,Palmolive,Every 2 Weeks,Large Supermarket,Yes,4
+61,3,South Mumbai,120000,Palmolive,Every 2 Weeks,Large Supermarket,Yes,2
+50,3,Thane,70000,Savlon,Monthly,Local Kirana,No,1
+36,3,Thane,65000,Local/Other,Every 2 Weeks,Hypermarket (D-Mart),Maybe,3
+37,2,Western Suburbs,130000,Savlon,Monthly,Online (Blinkit/BigBasket),Yes,4
+33,6,Western Suburbs,335000,Palmolive,Weekly,Large Supermarket,Yes,4
+32,2,Thane,75000,Santoor,Monthly,Organic Store,Maybe,4
+18,2,Eastern Suburbs,195000,Dettol,Monthly,Hypermarket (D-Mart),Yes,5
+56,3,Western Suburbs,370000,Godrej Protekt,Monthly,Large Supermarket,Yes,4
+18,3,Western Suburbs,265000,Dove,Monthly,Large Supermarket,Yes,4
+29,2,Western Suburbs,200000,Palmolive,Every 2 Weeks,Large Supermarket,Yes,5
+41,4,Eastern Suburbs,165000,Palmolive,Weekly,Hypermarket (D-Mart),Yes,4
+53,3,Thane,50000,Dettol,Monthly,Online,Maybe,3
+44,6,Thane,75000,Lifebuoy,Weekly,Local Kirana,No,3
+34,3,Western Suburbs,165000,Dove,Monthly,Online (Blinkit/BigBasket),Yes,4
+35,3,Western Suburbs,215000,Other/Organic,Every 2 Weeks,Large Supermarket,Yes,4
+27,4,Navi Mumbai,60000,Dettol,Weekly,Hypermarket (D-Mart),Maybe,4
+19,2,Navi Mumbai,140000,Dettol,Every 2 Weeks,Local Kirana,Yes,4
+24,3,Eastern Suburbs,90000,Dettol,Monthly,Hypermarket (D-Mart),Maybe,4
+39,6,Western Suburbs,270000,Palmolive,Weekly,Online (Blinkit/BigBasket),Yes,4
+36,4,Western Suburbs,290000,Dettol,Weekly,Online (Blinkit/BigBasket),Yes,3
+31,4,Navi Mumbai,45000,Dettol,Weekly,Local Kirana,No,3
+46,3,Navi Mumbai,90000,Godrej Protekt,Monthly,Organic Store,Maybe,3
+44,2,Navi Mumbai,115000,Savlon,Every 2 Weeks,Local Kirana,Maybe,3
+37,4,Eastern Suburbs,115000,Dettol,Weekly,Local Kirana,No,4
+36,3,Western Suburbs,155000,Dove,Every 2 Weeks,Organic Store,Yes,3
+29,4,Thane,100000,Palmolive,Weekly,Local Kirana,Yes,4
+39,4,Eastern Suburbs,110000,Savlon,Weekly,Local Kirana,No,4
+18,4,South Mumbai,165000,Godrej Protekt,Weekly,Large Supermarket,Yes,4
+36,3,Western Suburbs,120000,Godrej Protekt,Monthly,Organic Store,No,4
+29,3,South Mumbai,225000,Other/Organic,Monthly,Organic Store,Yes,4
+39,3,Navi Mumbai,105000,Dettol,Quarterly,Local Kirana,Maybe,3
+44,6,Thane,120000,Dettol,Weekly,Hypermarket (D-Mart),No,3
+39,6,Eastern Suburbs,175000,Dove,Weekly,Local Kirana,Yes,3
+41,3,Western Suburbs,105000,Savlon,Monthly,Organic Store,No,4
+27,6,Western Suburbs,170000,Dove,Weekly,Online (Blinkit/BigBasket),Yes,5
+49,3,Navi Mumbai,80000,Dettol,Monthly,Local Kirana,No,4
+34,3,Thane,50000,Santoor,Monthly,Local Kirana,No,4
+32,4,Navi Mumbai,70000,Lifebuoy,Weekly,Online,No,4
+18,4,Navi Mumbai,60000,Santoor,Weekly,Hypermarket (D-Mart),Maybe,3
+48,1,Western Suburbs,100000,Savlon,Monthly,Local Kirana,Maybe,3
+44,4,Eastern Suburbs,145000,Godrej Protekt,Weekly,Local Kirana,Yes,5
+45,6,Western Suburbs,225000,Palmolive,Weekly,Online (Blinkit/BigBasket),Yes,4
+56,4,Navi Mumbai,110000,Palmolive,Weekly,Local Kirana,Yes,4
+30,4,Navi Mumbai,80000,Lifebuoy,Weekly,Local Kirana,No,4
+26,2,Western Suburbs,195000,Other/Organic,Every 2 Weeks,Online (Blinkit/BigBasket),Yes,5
+45,2,Navi Mumbai,105000,Dettol,Every 2 Weeks,Hypermarket (D-Mart),No,3
+30,3,Navi Mumbai,150000,Dettol,Every 2 Weeks,Local Kirana,Yes,3
+39,3,Eastern Suburbs,170000,Palmolive,Monthly,Online,Yes,4
+35,5,Western Suburbs,240000,Palmolive,Weekly,Online (Blinkit/BigBasket),Yes,4
+34,4,Western Suburbs,130000,Dettol,Weekly,Large Supermarket,Yes,4
+50,3,Western Suburbs,240000,Godrej Protekt,Monthly,Online (Blinkit/BigBasket),Yes,3
+46,4,South Mumbai,355000,Other/Organic,Weekly,Online (Blinkit/BigBasket),Yes,4
+44,2,Navi Mumbai,115000,Lifebuoy,Monthly,Hypermarket (D-Mart),No,3
+47,5,Western Suburbs,330000,Palmolive,Weekly,Organic Store,Yes,3
+34,3,Navi Mumbai,130000,Godrej Protekt,Monthly,Local Kirana,Yes,4
+35,4,Navi Mumbai,70000,Savlon,Weekly,Local Kirana,No,3
+26,1,Western Suburbs,315000,Palmolive,Monthly,Local Kirana,Yes,5
+45,6,Western Suburbs,315000,Dove,Weekly,Large Supermarket,Yes,3
+30,2,South Mumbai,200000,Dettol,Monthly,Online (Blinkit/BigBasket),Yes,4
+36,3,Western Suburbs,135000,Lifebuoy,Monthly,Online (Blinkit/BigBasket),Yes,4
+43,3,South Mumbai,360000,Dove,Monthly,Large Supermarket,Yes,4
+51,1,Western Suburbs,170000,Dove,Quarterly,Online (Blinkit/BigBasket),Yes,3
+51,4,Navi Mumbai,130000,Savlon,Weekly,Hypermarket (D-Mart),Yes,4
+23,2,Eastern Suburbs,55000,Savlon,Every 2 Weeks,Local Kirana,No,3
+22,6,Western Suburbs,290000,Dettol,Weekly,Online (Blinkit/BigBasket),Yes,5
+36,3,Navi Mumbai,95000,Dettol,Monthly,Hypermarket (D-Mart),No,3
+43,4,Navi Mumbai,75000,Lifebuoy,Weekly,Hypermarket (D-Mart),No,3
+42,4,Western Suburbs,190000,Dove,Weekly,Online (Blinkit/BigBasket),Yes,4
+18,4,Eastern Suburbs,175000,Dettol,Weekly,Local Kirana,Yes,3
+33,2,Navi Mumbai,90000,Dettol,Quarterly,Local Kirana,No,5
+43,2,Eastern Suburbs,100000,Dettol,Monthly,Local Kirana,No,5
+32,5,Western Suburbs,245000,Dove,Weekly,Online (Blinkit/BigBasket),Yes,4
+43,2,South Mumbai,435000,Palmolive,Monthly,Online (Blinkit/BigBasket),Yes,3
+43,4,Navi Mumbai,130000,Dettol,Weekly,Local Kirana,Yes,5
+45,2,Western Suburbs,150000,Dettol,Monthly,Online (Blinkit/BigBasket),Yes,5
+22,1,South Mumbai,305000,Dettol,Every 2 Weeks,Online (Blinkit/BigBasket),Yes,4
+30,4,Navi Mumbai,80000,Dettol,Weekly,Hypermarket (D-Mart),No,4
+34,4,Western Suburbs,195000,Dettol,Weekly,Organic Store,Yes,5
+29,4,South Mumbai,365000,Palmolive,Weekly,Local Kirana,Yes,5
+37,4,South Mumbai,290000,Palmolive,Weekly,Local Kirana,Yes,3
+43,4,South Mumbai,355000,Palmolive,Weekly,Online (Blinkit/BigBasket),Yes,4
+27,4,Eastern Suburbs,115000,Palmolive,Weekly,Local Kirana,Yes,3
+24,5,South Mumbai,285000,Palmolive,Weekly,Local Kirana,Yes,5
+38,2,Eastern Suburbs,155000,Dettol,Quarterly,Local Kirana,Yes,4
+29,4,Eastern Suburbs,120000,Dettol,Weekly,Local Kirana,No,4
+42,2,Thane,90000,Dettol,Monthly,Local Kirana,No,3
+22,4,Western Suburbs,300000,Palmolive,Weekly,Organic Store,Yes,5
+33,2,Eastern Suburbs,140000,Palmolive,Every 2 Weeks,Local Kirana,Yes,4
+36,6,Navi Mumbai,95000,Dettol,Weekly,Hypermarket (D-Mart),No,4
+49,4,Eastern Suburbs,105000,Dettol,Weekly,Local Kirana,No,3
+35,3,Western Suburbs,120000,Dettol,Quarterly,Online (Blinkit/BigBasket),Maybe,4
+41,4,Eastern Suburbs,100000,Savlon,Weekly,Organic Store,Maybe,2
+33,4,Western Suburbs,145000,Godrej Protekt,Weekly,Online (Blinkit/BigBasket),Yes,3
+28,4,Western Suburbs,145000,Godrej Protekt,Weekly,Online (Blinkit/BigBasket),Yes,5
+39,3,Thane,90000,Dettol,Quarterly,Local Kirana,Maybe,3
+43,4,Eastern Suburbs,90000,Godrej Protekt,Weekly,Hypermarket (D-Mart),No,3
+31,2,Western Suburbs,70000,Local/Other,Monthly,Hypermarket (D-Mart),No,4
+30,3,Western Suburbs,260000,Dove,Every 2 Weeks,Online (Blinkit/BigBasket),Yes,4
+43,4,South Mumbai,345000,Dove,Weekly,Online (Blinkit/BigBasket),Yes,4
+39,2,South Mumbai,255000,Dove,Monthly,Organic Store,Yes,4
+28,1,Eastern Suburbs,85000,Dettol,Monthly,Hypermarket (D-Mart),Maybe,4
+30,2,Navi Mumbai,85000,Dettol,Monthly,Local Kirana,No,3
+30,4,South Mumbai,255000,Dove,Weekly,Large Supermarket,Yes,5
+29,4,Western Suburbs,145000,Dettol,Weekly,Local Kirana,Yes,4
+42,3,South Mumbai,165000,Palmolive,Monthly,Large Supermarket,Yes,4
+37,2,Navi Mumbai,75000,Savlon,Every 2 Weeks,Local Kirana,No,3
+38,2,Western Suburbs,335000,Palmolive,Monthly,Online (Blinkit/BigBasket),Yes,4
+24,3,South Mumbai,220000,Dettol,Monthly,Online (Blinkit/BigBasket),Yes,4
+24,4,Western Suburbs,245000,Palmolive,Weekly,Online (Blinkit/BigBasket),Yes,4
+26,6,South Mumbai,335000,Dove,Weekly,Large Supermarket,Yes,5
+22,3,Thane,100000,Godrej Protekt,Monthly,Online,No,4
+37,4,Thane,95000,Godrej Protekt,Weekly,Local Kirana,No,2
+35,2,Navi Mumbai,85000,Dettol,Monthly,Local Kirana,No,2
+30,2,Navi Mumbai,125000,Dettol,Quarterly,Hypermarket (D-Mart),No,5
+32,4,Thane,70000,Local/Other,Weekly,Local Kirana,No,3
+22,3,Eastern Suburbs,160000,Palmolive,Monthly,Hypermarket (D-Mart),Yes,5
+25,4,Navi Mumbai,125000,Savlon,Weekly,Organic Store,No,5
+41,3,South Mumbai,375000,Dettol,Monthly,Online (Blinkit/BigBasket),Yes,4
+47,3,Navi Mumbai,90000,Palmolive,Monthly,Local Kirana,Yes,3
+40,4,Western Suburbs,170000,Dove,Weekly,Large Supermarket,Yes,2
+39,4,Western Suburbs,215000,Godrej Protekt,Weekly,Online (Blinkit/BigBasket),Yes,4
+69,3,Eastern Suburbs,70000,Lifebuoy,Quarterly,Local Kirana,No,3
+43,2,South Mumbai,325000,Palmolive,Every 2 Weeks,Online (Blinkit/BigBasket),Yes,5
+44,4,Western Suburbs,280000,Dove,Weekly,Online (Blinkit/BigBasket),Yes,3
+36,4,Western Suburbs,75000,Dettol,Weekly,Local Kirana,No,3
+36,3,Thane,115000,Godrej Protekt,Every 2 Weeks,Local Kirana,Maybe,3
+61,3,Eastern Suburbs,80000,Savlon,Monthly,Hypermarket (D-Mart),Maybe,2
+38,3,Thane,40000,Lifebuoy,Monthly,Hypermarket (D-Mart),No,4
+41,2,Navi Mumbai,85000,Palmolive,Monthly,Organic Store,Yes,2
+18,3,Western Suburbs,290000,Godrej Protekt,Monthly,Online (Blinkit/BigBasket),Yes,4
+22,3,Thane,110000,Dettol,Monthly,Online,Maybe,3
+18,5,Western Suburbs,260000,Dove,Weekly,Local Kirana,Yes,4
+23,5,Eastern Suburbs,150000,Dettol,Weekly,Hypermarket (D-Mart),Yes,4
+52,4,Navi Mumbai,95000,Dettol,Weekly,Local Kirana,No,3
+36,3,Western Suburbs,350000,Dove,Every 2 Weeks,Large Supermarket,Yes,4
+42,2,Navi Mumbai,100000,Savlon,Every 2 Weeks,Local Kirana,Maybe,3
+27,5,Navi Mumbai,115000,Godrej Protekt,Weekly,Hypermarket (D-Mart),No,4
+40,3,Thane,55000,Dettol,Every 2 Weeks,Hypermarket (D-Mart),No,3
+43,3,Eastern Suburbs,105000,Godrej Protekt,Monthly,Local Kirana,No,3
+33,2,Western Suburbs,265000,Palmolive,Every 2 Weeks,Online (Blinkit/BigBasket),Yes,4
+37,4,South Mumbai,305000,Palmolive,Weekly,Large Supermarket,Yes,4
+36,2,Navi Mumbai,125000,Godrej Protekt,Quarterly,Local Kirana,Maybe,5
+29,1,Western Suburbs,390000,Palmolive,Monthly,Online (Blinkit/BigBasket),Yes,5
+45,5,Navi Mumbai,45000,Lifebuoy,Weekly,Local Kirana,No,3
+61,2,Thane,95000,Lifebuoy,Every 2 Weeks,Local Kirana,Maybe,2
+23,3,Eastern Suburbs,100000,Savlon,Monthly,Local Kirana,No,4
+30,4,Navi Mumbai,140000,Dettol,Weekly,Local Kirana,Yes,4
+23,3,Western Suburbs,245000,Dove,Monthly,Online (Blinkit/BigBasket),Yes,5
+41,3,Eastern Suburbs,100000,Savlon,Monthly,Online,No,3
+25,3,South Mumbai,130000,Dettol,Monthly,Online (Blinkit/BigBasket),Yes,5
+47,4,Western Suburbs,155000,Palmolive,Weekly,Online (Blinkit/BigBasket),Yes,4
+47,4,Thane,70000,Savlon,Weekly,Local Kirana,Maybe,5
+43,3,South Mumbai,375000,Dettol,Every 2 Weeks,Online (Blinkit/BigBasket),Yes,4
+26,3,South Mumbai,255000,Godrej Protekt,Every 2 Weeks,Online (Blinkit/BigBasket),Yes,5
+50,2,Eastern Suburbs,155000,Godrej Protekt,Monthly,Hypermarket (D-Mart),Yes,4
+40,3,Western Suburbs,230000,Palmolive,Quarterly,Large Supermarket,Yes,3
+53,4,South Mumbai,250000,Dettol,Weekly,Online (Blinkit/BigBasket),Yes,4
+45,2,Western Suburbs,295000,Palmolive,Every 2 Weeks,Online (Blinkit/BigBasket),Yes,4
+27,2,Western Suburbs,160000,Dove,Monthly,Online (Blinkit/BigBasket),Yes,4
+38,3,Navi Mumbai,110000,Dettol,Every 2 Weeks,Local Kirana,No,3
+39,2,Western Suburbs,210000,Dove,Monthly,Online (Blinkit/BigBasket),Yes,5
+48,1,Thane,70000,Dettol,Monthly,Local Kirana,No,2
+47,4,Western Suburbs,255000,Godrej Protekt,Weekly,Online (Blinkit/BigBasket),Yes,4
+42,4,Navi Mumbai,85000,Dettol,Weekly,Local Kirana,No,2
+58,5,Thane,50000,Lifebuoy,Weekly,Hypermarket (D-Mart),No,3
+26,3,Thane,60000,Lifebuoy,Monthly,Local Kirana,No,3
+27,3,Western Suburbs,115000,Lifebuoy,Monthly,Online (Blinkit/BigBasket),Maybe,4
+25,4,Thane,110000,Dettol,Weekly,Local Kirana,No,3
+37,5,Western Suburbs,195000,Other/Organic,Weekly,Large Supermarket,Yes,3
+41,3,South Mumbai,150000,Dettol,Monthly,Organic Store,Yes,3
+27,2,Eastern Suburbs,95000,Palmolive,Quarterly,Organic Store,Yes,3
+32,2,Western Suburbs,295000,Godrej Protekt,Every 2 Weeks,Online (Blinkit/BigBasket),Yes,5
+32,6,Western Suburbs,105000,Dettol,Weekly,Online (Blinkit/BigBasket),No,5
+42,5,Western Suburbs,275000,Dettol,Weekly,Large Supermarket,Yes,4
+26,3,Navi Mumbai,90000,Dettol,Quarterly,Local Kirana,Maybe,2
+33,3,Eastern Suburbs,155000,Godrej Protekt,Monthly,Local Kirana,Yes,3
+23,2,Western Suburbs,325000,Dettol,Monthly,Online (Blinkit/BigBasket),Yes,4
+42,2,Eastern Suburbs,85000,Godrej Protekt,Monthly,Online,Maybe,3
+31,4,Eastern Suburbs,80000,Lifebuoy,Weekly,Online,Maybe,3
+32,3,South Mumbai,280000,Palmolive,Every 2 Weeks,Organic Store,Yes,4
+48,3,Thane,110000,Godrej Protekt,Every 2 Weeks,Online,No,2
+18,3,South Mumbai,180000,Dove,Quarterly,Online (Blinkit/BigBasket),Yes,5
